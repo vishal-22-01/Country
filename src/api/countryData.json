@@ -1,0 +1,73 @@
+[
+    {
+      "id": 1,
+      "countryName": "Japan",
+      "countryCapital": "Tokyo",
+      "population": 125800000,
+      "interestingFacts": "Japan is made up of over 6,800 islands."
+    },
+    {
+      "id": 2,
+      "countryName": "Brazil",
+      "countryCapital": "Brasília",
+      "population": 214300000,
+      "interestingFacts": "Brazil is home to about 60% of the Amazon Rainforest."
+    },
+    {
+      "id": 3,
+      "countryName": "Canada",
+      "countryCapital": "Ottawa",
+      "population": 39200000,
+      "interestingFacts": "Canada has the longest coastline in the world."
+    },
+    {
+      "id": 4,
+      "countryName": "Australia",
+      "countryCapital": "Canberra",
+      "population": 26800000,
+      "interestingFacts": "Australia is the only continent covered by a single country."
+    },
+    {
+      "id": 5,
+      "countryName": "India",
+      "countryCapital": "New Delhi",
+      "population": 1428000000,
+      "interestingFacts": "India is the world's largest democracy by population."
+    },
+    {
+      "id": 6,
+      "countryName": "Egypt",
+      "countryCapital": "Cairo",
+      "population": 112000000,
+      "interestingFacts": "The Great Pyramid of Giza is the only one of the Seven Wonders still standing."
+    },
+    {
+      "id": 7,
+      "countryName": "Norway",
+      "countryCapital": "Oslo",
+      "population": 5400000,
+      "interestingFacts": "Norway introduced salmon sushi to Japan."
+    },
+    {
+      "id": 8,
+      "countryName": "South Korea",
+      "countryCapital": "Seoul",
+      "population": 51700000,
+      "interestingFacts": "South Korea has the fastest internet in the world."
+    },
+    {
+      "id": 9,
+      "countryName": "Argentina",
+      "countryCapital": "Buenos Aires",
+      "population": 46000000,
+      "interestingFacts": "Argentina was the first country to use fingerprinting in criminal investigations."
+    },
+    {
+      "id": 10,
+      "countryName": "Switzerland",
+      "countryCapital": "Bern",
+      "population": 8900000,
+      "interestingFacts": "Switzerland has not been in a state of war since 1815."
+    }
+  ]
+  
